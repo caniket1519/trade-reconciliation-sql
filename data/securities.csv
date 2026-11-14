@@ -1,0 +1,16 @@
+isin,name,market,currency,sector,settlement_cycle
+GB0042001015,Northbridge Energy plc,LSE,GBP,Energy,2
+GB0042001023,Thames Retail Group plc,LSE,GBP,Consumer,2
+GB0042001031,Albion Bank plc,LSE,GBP,Financials,2
+GB0042001049,Kestrel Pharma plc,LSE,GBP,Healthcare,2
+GB0042001056,Highland Mining plc,LSE,GBP,Materials,2
+US0042001067,Summit Cloud Inc,NYSE,USD,Technology,1
+US0042001075,Redwood Health Corp,NYSE,USD,Healthcare,1
+US0042001083,Atlas Motors Inc,NYSE,USD,Industrials,1
+US0042001091,Bluewater Foods Inc,NYSE,USD,Consumer,1
+US0042001109,Pioneer Payments Inc,NYSE,USD,Financials,1
+DE0042001114,Rhein Chemie AG,XETRA,EUR,Materials,2
+DE0042001122,Nordlicht Solar AG,XETRA,EUR,Energy,2
+DE0042001130,Alpen Logistik AG,XETRA,EUR,Industrials,2
+DE0042001148,Hansa Versicherung AG,XETRA,EUR,Financials,2
+DE0042001155,Bavaria Tech AG,XETRA,EUR,Technology,2
