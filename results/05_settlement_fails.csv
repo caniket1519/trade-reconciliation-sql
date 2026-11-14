@@ -1,0 +1,9 @@
+cpty_id,cpty_name,trades_due,failed,fail_rate_pct,still_unsettled,fail_rank,flag
+CP08,Wexford Partners,3,1,33.3,1,1,INACTIVE - SHOULD NOT TRADE
+CP02,Meridian Brokers Ltd,207,20,9.7,2,2,REVIEW COUNTERPARTY
+CP04,Harbour Prime LLP,162,6,3.7,0,3,
+CP07,Vertex Global Markets,125,4,3.2,1,4,
+CP01,Alpha Securities Ltd,231,5,2.2,0,5,
+CP03,Granite Capital Markets,158,2,1.3,0,6,
+CP05,Lumen Clearing Ltd,91,0,0.0,0,7,
+CP06,Oakstone Securities,112,0,0.0,0,7,

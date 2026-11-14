@@ -1,0 +1,9 @@
+cpty_id,cpty_name,trades,gross_gbp,pct_of_total,cumulative_pct,flag
+CP01,Alpha Securities Ltd,250,69036202.0,23.7,23.7,CONCENTRATION
+CP02,Meridian Brokers Ltd,231,47976812.0,16.5,40.2,
+CP03,Granite Capital Markets,182,44099399.0,15.2,55.4,
+CP04,Harbour Prime LLP,179,40907134.0,14.1,69.5,
+CP05,Lumen Clearing Ltd,110,29975739.0,10.3,79.8,
+CP07,Vertex Global Markets,137,29597715.0,10.2,89.9,
+CP06,Oakstone Securities,130,28828385.0,9.9,99.8,
+CP08,Wexford Partners,3,439343.0,0.2,100.0,

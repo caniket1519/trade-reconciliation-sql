@@ -1,0 +1,8 @@
+dimension,check_name,rows_checked,rows_failed,pass_rate_pct,result
+Completeness,Trade has a counterparty,1222,5,99.59,FAIL
+Completeness,Counterparty has an LEI,8,1,87.5,FAIL
+Validity,ISIN is 12 characters and exists in security master,1222,4,99.67,FAIL
+Validity,Counterparty is active,1217,3,99.75,FAIL
+Uniqueness,"No duplicate bookings (same date, ISIN, side, qty, price, cpty)",1222,4,99.67,FAIL
+Timeliness,"Settlement date follows market cycle (T+1 US, T+2 UK/EU)",1218,8,99.34,FAIL
+Accuracy,Trade price within 2% of that day's closing price,1218,0,100.0,PASS

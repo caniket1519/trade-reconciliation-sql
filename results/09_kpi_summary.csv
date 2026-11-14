@@ -1,0 +1,8 @@
+kpi,value
+Trades booked,1222
+Broker confirmations received,1206
+Auto-match rate (%),94.2
+Open breaks,71
+Value of open breaks (GBP),"14,866,820"
+Settlement fail rate (%),3.5
+Fails still unsettled,4
